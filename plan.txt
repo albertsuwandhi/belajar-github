@@ -4,3 +4,4 @@
 
 AWS Certified Cloud Practitioner
 AWS Certified Solution Architect
+Google Cloud Certified Associate Engineer
