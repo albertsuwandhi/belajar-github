@@ -1,2 +1,2 @@
-1. Meetup 
+1. IoT Workshop 
 2. Data Science Workshop
