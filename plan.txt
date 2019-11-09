@@ -1,3 +1,6 @@
 1. IoT Workshop 
 2. Data Science Workshop
 3. Cloud Study Jam : AWS GCP
+
+AWS Certified Cloud Practitioner
+AWS Certified Solution Architect
